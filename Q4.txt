@@ -1,0 +1,14 @@
+
+Q4: Queue Operations
+
+Initially, Queue is empty.
+
+1. Enqueue(10) → 10
+2. Enqueue(20) → 10, 20
+3. Enqueue(30) → 10, 20, 30
+4. Dequeue() → 20, 30
+5. Enqueue(40) → 20, 30, 40
+6. Dequeue() → 30, 40
+
+Final Queue: 30, 40
+Front Element: 30
