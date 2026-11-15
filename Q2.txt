@@ -1,0 +1,14 @@
+
+Q2: Stack Operations
+
+Initially, Stack is empty.
+
+1. Push(10) → 10
+2. Push(20) → 10, 20
+3. Push(30) → 10, 20, 30
+4. Pop() → 10, 20
+5. Push(40) → 10, 20, 40
+6. Pop() → 10, 20
+
+Final Stack: 10, 20
+Top Element: 20
